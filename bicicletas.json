@@ -1,0 +1,24 @@
+[{"id":1,
+  "Marca":"Shifter",
+    "Modelo":"Regal",
+    "Rodado":26,
+    "Año de fabricacion":2021,
+    "Color":"negro",
+    "Peso en Kilogramos":16,
+    "Tipo":"Montañera",
+    "Precio":24000,
+    "Vendida":true
+},
+{
+    "id":3,
+    "Marca":"Battle",
+      "Modelo":"Sunshine",
+      "Rodado":24,
+      "Año de fabricacion":2018,
+      "Color":"rojo",
+      "Peso en Kilogramos":18,
+      "Tipo":"Triatlon",
+      "Precio":20000,
+      "Vendida":false
+}]
+
